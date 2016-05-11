@@ -1,0 +1,26 @@
+{
+  "name": "color-and-sass",
+  "version": "1.0.0",
+  "description": "naming colors variables with Sass? you find the solution.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/douglasdeodato/color-and-sass.git"
+  },
+  "keywords": [
+    "colors",
+    "sass",
+    "colours",
+    "sass",
+    "variables"
+  ],
+  "author": "douglas deodato",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/douglasdeodato/color-and-sass/issues"
+  },
+  "homepage": "https://github.com/douglasdeodato/color-and-sass#readme"
+}
